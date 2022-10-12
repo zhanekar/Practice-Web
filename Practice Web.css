@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+}
+.P {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkblue;
+}
+img {
+    height: 250px;
+}
+.IMG {
+    position: relative;
+    top: 350px;
+    right: 350px;
+}
+.H2 {
+    color: darkblue;
+}
+.cute {
+    color: darkblue;
+}
+.Sign {
+    position: relative;
+    top: 300px;
+}
+.Sign {
+    color: darkblue;
+}
+
